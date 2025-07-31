@@ -23,12 +23,13 @@ This project demonstrates how to build a smooth card-to-detail transition using 
 
 ---
 
-## ▶️ Preview
+<!--## ▶️ Preview
 
 https://user-images.githubusercontent.com/your-video.mp4  
 <!-- Or use a GIF if needed -->
 
 ---
+-->
 
 ## 🛠 Run the Project
 
